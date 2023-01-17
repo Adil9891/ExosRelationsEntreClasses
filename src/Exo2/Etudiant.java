@@ -1,18 +1,22 @@
 package Exo2;
 
 public class Etudiant {
-    private static int id;
+    private static int idEtudiant;
+    private int id;
     private String nom;
     private String prenom;
     private String dateNaissance;
     private Filiere filiere;
 
     public Etudiant(String nom, String prenom, String dateNaissance, Filiere filiere) {
+        idEtudiant++;
+        this.id=idEtudiant;
         this.nom = nom;
         this.prenom = prenom;
         this.dateNaissance = dateNaissance;
         this.filiere = filiere;
-        this.id++;
+        this.filiere.addEtudiant(this);
+
 
     }
 
