@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="892ee763-10f1-4786-97f8-182f81818911" name="Changes" comment="" />
+    <list default="true" id="892ee763-10f1-4786-97f8-182f81818911" name="Changes" comment="Mise à jour">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exo2/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exo2/Filiere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo1/Professeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo1/Professeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo1/Specialite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo1/Specialite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo2/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KRulEv5s6FPsNXNblaw6TQ2L2V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,6 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -28,9 +51,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673949880852</updated>
-      <workItem from="1673949883491" duration="1000" />
+      <workItem from="1673949883491" duration="8186000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -42,5 +68,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mise à jour" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour" />
   </component>
 </project>

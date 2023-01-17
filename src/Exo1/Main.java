@@ -1,3 +1,5 @@
+package Exo1;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,7 +32,7 @@ public class Main {
         listeProfesseur.add(p4);
 
 
-        System.out.println("Professeurs par spécialité :");
+        System.out.println("\nProfesseurs par spécialité :\n");
         boolean trouver = false;
         for (Specialite s : listeSpecialite){
 
@@ -46,6 +48,7 @@ public class Main {
             if (trouver==false){
                 System.out.println("Aucun professeur dans cette spécialité");
             }
+            System.out.println();
             trouver=false;
 
         }

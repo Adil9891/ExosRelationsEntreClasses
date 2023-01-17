@@ -1,3 +1,5 @@
+package Exo1;
+
 public class Specialite {
     private static int id;
     private String code;

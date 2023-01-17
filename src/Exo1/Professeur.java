@@ -1,3 +1,5 @@
+package Exo1;
+
 public class Professeur {
     private static int id;
     private String  nom;
@@ -41,7 +43,7 @@ public class Professeur {
 
     @Override
     public String toString() {
-        return nom.toUpperCase() + " "+ prenom +" " +email ;
+        return nom.toUpperCase() + " "+ prenom.substring(0,1).toUpperCase()+prenom.substring(1) +" " +email ;
     }
 
 }
